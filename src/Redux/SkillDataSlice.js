@@ -69,18 +69,7 @@ const initialState = {
       desc: `one month Core JAVA and personality development training from Friends Union For Energising Lives (FUEL)!
       || SKILLS LEARN: Core Java · Personality Development `,
     },
-    {
-      title: "As React Full Stack Web Developer",
-      place: "at Codehelp.com",
-      placeLink: "https://www.thecodehelp.in/",
-      duration: "November 2022 - Present",
-      desc: `Learning Full Stack web development using React.js at code help with a 
-      clear understanding of the usage of React Components, Redux working flow, fetching an API
-      with asynchronous calls, manipulating HTML & CSS contents and properties by using DOM and
-      Events concepts in JS, and having a good understanding on other ES6 concepts.
-      <a href='https://www.linkedin.com/in/shantanu-kumar-kushwaha-437521204/'>Check out my Linkedin Profile(Click on me)</a>
-      for the work I have done so far.`,
-    },
+    
     
     {
       title: "As Full Stack Web Developer",
@@ -118,9 +107,9 @@ const initialState = {
       title: "HEALTHLINE-HUB",
       responsive: "Yes",
       codeLink: "",
-      deployed: "NO still working on this",
-      deployedIn: "----",
-      deployLink: "",
+      deployed: "Yes",
+      /*deployedIn: "----",*/
+      deployLink: "https://shan2304.github.io/Health-Hub/",
       images: [ns_1_img, ns_2_img, ns_3_img],
     },
     {
@@ -137,7 +126,7 @@ const initialState = {
       responsive: "Yes",
       codeLink: "https://github.com/Shan2304/Tic-Tak-Toe-game",
       deployed: "Yes",
-      deployedIn: "---",
+     /* deployedIn: "---",*/
       deployLink: "shan2304.github.io/Tic-Tak-Toe-game/",
       images: [n_1_img, n_2_img, n_3_img],
     },
