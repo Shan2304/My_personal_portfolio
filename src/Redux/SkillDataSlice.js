@@ -13,11 +13,12 @@ const initialState = {
     { title: "Java", value: 95 },
     { title: "C++", value: 90 },
     { title: "JavaScript", value: 85 },
-    { title: "SQL", value: 80 },
+    { title: "APIs", value: 80 },
     { title: "HTML", value: 95 },
     { title: "CSS", value: 95 },
     { title: "Git", value: 90 },
     { title: "DSA", value: 85 },
+    { title: "TeamWork", value: 85 },
   ],
   skillLearning: [
     {
