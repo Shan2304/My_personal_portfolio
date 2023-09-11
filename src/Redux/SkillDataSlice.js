@@ -35,7 +35,15 @@ const initialState = {
     },
   ],
   experience: [
-    
+    {
+      title: "web developer intern",
+      place: "CodSoft,Kolkata,india",
+      placeLink: "",
+      duration: "10-aug to 10-sept 2023",
+      desc: `Gain hands-on experience in web development by assisting in designing, coding, and maintaining websites and web applications.
+      Collaborate with a team to learn and implement web technologies, troubleshoot issues, and contribute to web projects' success.
+      Develop your skills in HTML, CSS, JavaScript, and other relevant technologies under the guidance of experienced developers.. `,
+    },
     {
       title: "Short term intership program",
       place: "National human rights commission,New Delhi",
@@ -77,7 +85,7 @@ const initialState = {
     {
       title: "As Full Stack Web Developer",
       place: "Freelancing",
-      placeLink: "https://www.unthinkable.co/",
+      placeLink: "",
       duration: "Duration depends upon Project",
       desc: `As of now I'm comfortable to make new projects related to Web-Development and also freelancing is the best way to start your development journey.`,
     },
