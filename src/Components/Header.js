@@ -215,7 +215,7 @@ function Header() {
             I'm <p ref={nameTyper}>Shan,</p>
           </h1>
           <h2>
-            Full Stack <br /> <span>Web Developer</span>
+            Programmer <br /> <span>Web Developer</span>
           </h2>
         </div>
         <div className="right">
