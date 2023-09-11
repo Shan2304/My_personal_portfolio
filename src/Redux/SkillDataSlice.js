@@ -17,7 +17,7 @@ const initialState = {
     { title: "HTML", value: 95 },
     { title: "CSS", value: 95 },
     { title: "Git", value: 90 },
-    { title: "DSA", value: 50 },
+    { title: "DSA", value: 85 },
   ],
   skillLearning: [
     {
@@ -35,6 +35,7 @@ const initialState = {
     },
   ],
   experience: [
+    
     {
       title: "Short term intership program",
       place: "National human rights commission,New Delhi",
