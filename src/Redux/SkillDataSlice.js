@@ -8,6 +8,10 @@ import n_3_img from "../Media/tic tak toe/3.jpg";
 import ns_1_img from "../Media/hospital-hub/1.jpg";
 import ns_2_img from "../Media/hospital-hub/2.jpg";
 import ns_3_img from "../Media/hospital-hub/3.jpg";
+import ns_3_img from "../Media/r-pay1.png";
+import ns_3_img from "../Media/r-pay1.png";
+import ns_3_img from "../Media/r-pay1.png";
+
 const initialState = {
   dataList: [
     { title: "Java", value: 95 },
@@ -112,6 +116,15 @@ const initialState = {
       /*deployedIn: "----",*/
       deployLink: "https://shan2304.github.io/Health-Hub/",
       images: [ns_1_img, ns_2_img, ns_3_img],
+    },
+    {
+      title: "Razor-Pay clone",
+      responsive: "Yes",
+      codeLink: " ",
+      deployed: "Yes",
+      /*deployedIn: "https://app.netlify.com/",*/
+      deployLink: " ",
+      images: [r-pay1, r-pay2,r-pay3],
     },
     {
       title: "Weather-API",
